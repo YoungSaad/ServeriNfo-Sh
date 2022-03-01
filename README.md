@@ -17,7 +17,7 @@
 ## ⚒ Usage/Example
 
 ```
-amir@Amir:~$ sh is.sh
+YoungSaad@root:~$ sh is.sh
 
 <======= Your Server iNfo =======>
 • Server Memory : 3397 MB
